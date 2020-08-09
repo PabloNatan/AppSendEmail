@@ -57,3 +57,11 @@ textarea{
 	font-size: 1.5em;
 	color: #FFF;
 	cursor: pointer;}
+
+/* Processa Envio */
+.modal {
+	width: 70%;
+	margin: 0 auto;}
+
+.caixa {
+	border-radius: 6px;}

@@ -15,7 +15,7 @@
 	</header>
 	<body>
 		<div class="caixa-formulario">
-			<form>
+			<form action="processa_envio.php" method="post">
 				<label for="email">Para</label>
 				<input type="text" name="email" placeholder="joao@dominio.com.br" id="email" class="entrada">
 
